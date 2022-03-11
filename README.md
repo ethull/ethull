@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- I live at: ethull.com
+- I live at: [ethull.com](https:/ethull.com)
 
 <!--
 **ethull/ethull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
