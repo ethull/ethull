@@ -1,6 +1,10 @@
 ### Hello there 👋
 
 - I live at: [ethull.com](https://www.ethull.com)
+- Some cool projects:
+  - Dotfiles built for xubuntu: [dotfiles](https://github.com/ethull/dotfiles)
+  - Personal website built with jekyll and bulma: [ethull.github.io](https://github.com/ethull/ethull.github.io)
+  - Technique manuals for gym movements: [technique-manuals](https://github.com/ethull/technique-manuals)
 
 <!--
 **ethull/ethull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
