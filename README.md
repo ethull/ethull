@@ -1,10 +1,19 @@
-### Hello there 👋
+Hello my name is Ethan. I am located in South London. And I am a computer science student at the University of Kent.
 
-- I live at: [ethull.com](https://www.ethull.com)
-- Some cool projects:
-  - Dotfiles built for xubuntu: [dotfiles](https://github.com/ethull/dotfiles)
-  - Personal website built with jekyll and bulma: [ethull.github.io](https://github.com/ethull/ethull.github.io)
-  - Technique manuals for gym movements: [technique-manuals](https://github.com/ethull/technique-manuals)
+### some cool open source projects
+- [Dotfiles built for xubuntu](https://github.com/ethull/dotfiles)
+- [Updated dotfiles for debian linux systems and macos](https://github.com/ethull/multifiles)
+- [Personal website built with jekyll and bulma](https://github.com/ethull/ethull.github.io)
+- [Some projects from university](https://github.com/ethull/university)
+- [A 3rd person shooter video game built in C#](https://github.com/ethull/AlienExterminator)
+
+### Blog posts
+- [Use cbftp to transfer files from android to linux](https://www.ethull.com/android-ftp.html)
+
+### Get in touch
+
+
+### IN PROGRESS ...
 
 <!--
 **ethull/ethull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
