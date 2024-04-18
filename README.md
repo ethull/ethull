@@ -1,4 +1,4 @@
-My name is Ethan. I am located in South London. And I am a computer science student at the University of Kent.
+Hello, I'm Ethan, a Software Engineer from South London.
 
 ### Some cool projects
 - [Dotfiles built for xubuntu](https://github.com/ethull/dotfiles)
