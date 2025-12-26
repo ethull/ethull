@@ -1,4 +1,4 @@
-Hello, I'm Ethan, a Software Engineer from South London.
+Hello, I'm Ethan, a Software Engineer from London.
 
 ### Some cool projects
 - [Dotfiles built for xubuntu](https://github.com/ethull/dotfiles)
