@@ -1,9 +1,10 @@
 Hello, I'm Ethan, a Software Engineer from London.
 
 ### Some cool projects
-- [Dotfiles built for xubuntu](https://github.com/ethull/dotfiles)
+- [Some homemade custom claude code skills](https://github.com/ethull/.claude)
 - [Updated dotfiles for debian linux systems and macos](https://github.com/ethull/multifiles)
 - [Personal website built with jekyll and bulma](https://github.com/ethull/ethull.github.io)
+- [Dotfiles built for xubuntu](https://github.com/ethull/dotfiles)
 - [Some projects from university](https://github.com/ethull/university)
 - [A 3rd person shooter video game built in C#](https://github.com/ethull/AlienExterminator)
 
